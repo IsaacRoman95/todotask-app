@@ -1,7 +1,7 @@
 # todotask-app
- Aplicación de Tareas en React + VueJs
+ Aplicación de Tareas en React + VueJs + TailwindCSS
+ 
  ![image](https://github.com/IsaacRoman95/todotask-app/assets/81668182/5838678c-3cfd-4622-9bfd-c94f7957dfee)
-
 
 ## Instalación
 Asegúrate de tener Node.js y npm instalados en tu sistema.
