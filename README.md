@@ -10,7 +10,7 @@ Asegúrate de tener Node.js y npm instalados en tu sistema.
    git clone https://github.com/IsaacRoman95/todotask-app.git
 
 2. Navega al directorio del proyecto:
-   cd tu-proyecto
+   cd todotask-app
 
 3. Instala las dependencias
    npm install
