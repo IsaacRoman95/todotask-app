@@ -1,4 +1,4 @@
-![image](https://github.com/IsaacRoman95/todotask-app/assets/81668182/6699deb3-2d38-4510-af9c-55b02491fb4f)# todotask-app
+# todotask-app
  Aplicación de Tareas en React + VueJs
 
 ## Instalación
